@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Atg2002
-- 👀 I’m interested in Algorithm Trading, Quant Finance, Web Development, Machine Language
+- 👀 I’m interested in Electronics, Algorithm Trading, Quant Finance, Web Development, Machine Language
 - 🌱 I’m currently learning Algorith Trading and Web development
 
 <!---
