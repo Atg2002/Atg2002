@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Atg2002
+- 👋 Hi, I’m Aditya Suresh
 - 👀 I’m interested in Electronics, Algorithm Trading, Quant Finance, Web Development, Machine Language
 - 🌱 I’m currently learning Algorith Trading and Web development
 
